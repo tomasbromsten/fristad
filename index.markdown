@@ -8,7 +8,7 @@ layout: default
 <img src = "/odlingslotter.jpg">
 <br>
 <br>
-<h1 style="font-family:serif;"><big>Välkommen till Kollektivhusföreningen Fristad</big></h1>
+<h1 style="font-family:serif;"><big>Välkommen till kollektivhuset Fristad</big></h1>
 <br>
 Med att välja att bo här i Fristad kan du få ökad livskvalitet genom socialt umgänge, gemensamma middagar, aktiviteter i våra olika intressegrupper och möjlighet att bidra med dina tankar och idéer i vår arbetsgemenskap.
 

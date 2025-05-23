@@ -1,0 +1,54 @@
+
+2025-05-23 Tomas Andersson
+
+Hej.
+
+Gör så här för att lägga till en blogg-post:
+
+0. Clone'a repositoryt med Git. Adressen är
+https://github.com/tomasbromsten/fristad.git
+Det är public så vem som helst kan clone'a, men det krävs såklart behörighet för att commit'a.
+Repositoryt måste vara public för att det ska vara gratis att ha webbsajten.
+
+1. Skapa en ny fil i katalogen _posts. Därunder kan du lägga filen i vilken underkatalog som helst. Ja faktiskt, allt kommer att hamna i den enda listan av blog-posts som alltså inte har någon hierarki.
+Filens namn ska vara datum + titel + ändelsen ".markdown". Det är en regel, inte något som jag har hittat på.
+Exempel på filnamn: 2012-06-23-styrelsemote.markdown
+
+2. Filens innehåll är först en header och sen innehåll i markdown-format. Markdown kan innehålla html-taggar, men måste inte. En dubbel radmatning betyder ett nytt stycke.
+Om det står "layout: page" i headern så kommer sidan att bli en egen sida med länk från på huvudmenyn. Om det står "layout: post" så blir det ett bloginlägg.
+Exempel (raderna med tre minustecken ska vara med, det är de som skiljer header från resten):
+
+---
+layout: post
+title: Ålandsresan
+date: 2013-07-30 11:49:32
+---
+
+Äntligen blev Kollektivets Husresa av. Lördagen den 25 maj gav tjugo fristadsbor sig iväg med Birka Cruises och målet var Åland tur och retur. Vi hade en trevlig båtresa med god gemenskap och mycket mat. Det var unga och gamla i en härlig blandning. Vi minglade runt på den fantastiskt fina fräscha färjan.
+
+Vi roade oss med enarmade banditer, simmade och solade i SPA avdelningen, sjöng karaoke, dansade, åkte i hissarna med glasväggar och njöt av Stockholms underbara arkipelag. Dagen därpå steg tjugo fristadare av färjan vid Stadsgårdskajen nöjda och belåtna.
+
+<a href="/assets/2013/07/IMG_0799.jpg"><img src="/assets/2013/07/IMG_0799-300x225.jpg" width="300" height="225" /></a>
+
+
+3. Bilder och andra filer ska läggas i katalogen assets, gärna i någon lämplig underkatalog.
+
+4. Commit'a ändringarna med Git så byggs webbsajten om automatiskt. Det går också att ändra filer direkt på Github's webbplats.
+
+-----------------------------
+
+OM GITHUB OCH JEKYLL:
+
+Det här är en statisk webbsajt.
+Den skapas av Jekyll. Om du kör Jekyll hemma så hamnar den färdiga webbsajten i katalogen _site. Du ska därför aldrig ändra någon fil i den katalogen.
+Alla övriga kataloger och filer är input till Jekyll. Filerna råkopieras till _site eller påverkar vad som skapas där.
+
+Sajten hostas hos GitHub, som har Jekyll som en inbyggd funktion.
+Man skapar ett vanligt repository hos GitHub och väljer att publicera det. Jag förklarar inte hur i den här texten.
+Varje gång någon fil i repositoryt ändras så körs då automatiskt Jekyll, och den publicerade sajten blir ändras. Du behöver med andra ord bara commit'a ändringar till repositoryt så sköts resten av sig självt. Det är Github som gör det, det är inget som jag har uppfunnit.
+Katalogen _sites ska därför inte commit'as eftersom dess innehåll genereras hos GitHub.
+
+
+
+
+

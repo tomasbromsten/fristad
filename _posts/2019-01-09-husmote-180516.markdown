@@ -1,0 +1,9 @@
+---
+layout: post
+title: Husmöte 180516
+date: 2019-01-09 04:48:09
+---
+
+<!-- wp:file {"id":1014,"href":"/assets/2019/01/Husmöte-3-2018-05-16.pdf"} -->
+<div class="wp-block-file"><a href="/assets/2019/01/Husmöte-3-2018-05-16.pdf">Husmötesprotokoll  2018-05-16</a><a href="/assets/2019/01/Husmöte-3-2018-05-16.pdf" class="wp-block-file__button" download>Ladda ner</a></div>
+<!-- /wp:file -->

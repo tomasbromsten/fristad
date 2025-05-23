@@ -1,0 +1,29 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$content-width: 1000px;
+$brand-color: #1E8C0A;
+$background-color: #F9F9F9;
+
+@import "minima";
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:serif;
+}
+
+
+.site-header {
+  border-top: 12px solid $brand-color;
+}
+
+.site-title {
+  font-size: 0;
+  margin-top: 30px;
+  height: 90px;
+}
+
+.site-title::before {
+  content: url(/fristad_logotyp_svart_liten.png);
+  display: block;
+}

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Styrelsemöte 170112
+date: 2019-01-09 03:58:17
+---
+
+<!-- wp:file {"id":1004,"href":"/assets/2019/01/Styrelsemöte-Fristad-20170112.docx"} -->
+<div class="wp-block-file"><a href="/assets/2019/01/Styrelsemöte-Fristad-20170112.docx">Styrelsemötesprotokoll 20170112</a><a href="/assets/2019/01/Styrelsemöte-Fristad-20170112.docx" class="wp-block-file__button" download>Ladda ner</a></div>
+<!-- /wp:file -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

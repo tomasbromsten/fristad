@@ -1,0 +1,9 @@
+---
+layout: post
+title: Husmöte 170523
+date: 2019-01-09 04:43:38
+---
+
+<!-- wp:file {"id":996,"href":"/assets/2019/01/Husmötesprotokoll-Fristad-2017-05-23.pdf"} -->
+<div class="wp-block-file"><a href="/assets/2019/01/Husmötesprotokoll-Fristad-2017-05-23.pdf">Husmötesprotokoll Fristad 2017-05-23</a><a href="/assets/2019/01/Husmötesprotokoll-Fristad-2017-05-23.pdf" class="wp-block-file__button" download>Ladda ner</a></div>
+<!-- /wp:file -->

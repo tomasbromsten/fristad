@@ -1,0 +1,9 @@
+---
+layout: post
+title: Styrelsemöte 180912
+date: 2019-03-16 11:07:50
+---
+
+<!-- wp:file {"id":1410,"href":"/assets/2019/03/Styrelsemote_9_20180912.pdf"} -->
+<div class="wp-block-file"><a href="/assets/2019/03/Styrelsemote_9_20180912.pdf">Styrelsemötesprotokoll 2018-09-12</a><a href="/assets/2019/03/Styrelsemote_9_20180912.pdf" class="wp-block-file__button" download>Ladda ner</a></div>
+<!-- /wp:file -->

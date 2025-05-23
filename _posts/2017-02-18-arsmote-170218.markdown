@@ -1,0 +1,9 @@
+---
+layout: post
+title: Årsmöte 170218
+date: 2017-02-18 04:50:04
+---
+
+<!-- wp:file {"id":1005,"href":"/assets/2019/01/Årsmötesprotokoll-Fristad-20170218.pdf"} -->
+<div class="wp-block-file"><a href="/assets/2019/01/Årsmötesprotokoll-Fristad-20170218.pdf">Årsmötesprotokoll Fristad 20170218</a><a href="/assets/2019/01/Årsmötesprotokoll-Fristad-20170218.pdf" class="wp-block-file__button" download>Ladda ner</a></div>
+<!-- /wp:file -->

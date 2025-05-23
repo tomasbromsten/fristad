@@ -1,0 +1,9 @@
+---
+layout: post
+title: Styrelsemöte 180404
+date: 2019-01-09 04:07:42
+---
+
+<!-- wp:file {"id":1010,"href":"/assets/2019/01/Styrelsemöte-5-2018-04-04.pdf"} -->
+<div class="wp-block-file"><a href="/assets/2019/01/Styrelsemöte-5-2018-04-04.pdf">Styrelsemötesprotokoll 2018-04-04</a><a href="/assets/2019/01/Styrelsemöte-5-2018-04-04.pdf" class="wp-block-file__button" download>Ladda ner</a></div>
+<!-- /wp:file -->

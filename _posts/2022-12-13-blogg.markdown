@@ -1,0 +1,17 @@
+---
+layout: post
+title: Blogg
+date: 2022-12-13 22:32:39
+---
+
+<!-- wp:paragraph -->
+<p>Här kan du läsa inlägg</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Husmöte 2, 20240506</h2>
+<!-- /wp:heading -->
+
+<!-- wp:file {"id":1776,"href":"/assets/2024/09/Husmote-2-240506-ojusterat.docx"} -->
+<div class="wp-block-file"><a id="wp-block-file--media-45658b6b-8425-4a98-96c3-be65a0d7785e" href="/assets/2024/09/Husmote-2-240506-ojusterat.docx">Husmote-2-240506-ojusterat</a><a href="/assets/2024/09/Husmote-2-240506-ojusterat.docx" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-45658b6b-8425-4a98-96c3-be65a0d7785e">Ladda ner</a></div>
+<!-- /wp:file -->

@@ -1,0 +1,9 @@
+---
+layout: post
+title: Styrelsemöte 170508
+date: 2019-01-09 04:01:27
+---
+
+<!-- wp:file {"id":1002,"href":"/assets/2019/01/Styrelsemöte-Fristad-20170508.docx"} -->
+<div class="wp-block-file"><a href="/assets/2019/01/Styrelsemöte-Fristad-20170508.docx">Styrelsemötesprotokoll 20170508</a><a href="/assets/2019/01/Styrelsemöte-Fristad-20170508.docx" class="wp-block-file__button" download>Ladda ner</a></div>
+<!-- /wp:file -->

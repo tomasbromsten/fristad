@@ -36,6 +36,7 @@ Föreningen har även en styrelse som är invald av huset. Styrelsen arbetar myc
 
 Den förra versionen av vår hemsida finns att titta på hos <a href="https://web.archive.org/web/20250217014605/https://fristadkollektivhus.se/">Internet Archive</a>
 
+<br>
 <a href="/assets/fristad_drone.jpg"><img src="/assets/fristad_drone_cut.jpg"></a>
 <br>
 <small>Foto: Björn Thörnqvist, <a href="https://www.spangahembygdsgille.se">Spånga hembygdsgille</a></small>

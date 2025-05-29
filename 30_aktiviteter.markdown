@@ -229,4 +229,5 @@ Ansvariga är:
 
 Vår hemsida hostas gratis hos github.com och är statiskt genererad med Jekyll som ingår som en gratistjänst hos GitHub. För mer info kontakta Tomas Andersson.
 
+En äldre version av vår hemsida finns att titta på hos <a href="https://web.archive.org/web/20250217014605/https://fristadkollektivhus.se/">Internet Archive</a>
 

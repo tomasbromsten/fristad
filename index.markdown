@@ -32,11 +32,10 @@ I huset finns även många lokaler som du kan låna utan kostnad, till exempel s
 
 Föreningen har även en styrelse som är invald av huset. Styrelsen arbetar mycket aktivt och har möten ett par gånger i månaden. Uppdragen som styrelsen driver är framröstade av huset på våra gemensamma Husmöten, som hålls 4 ggr per år.
 
-<strong>Hemsidan</strong>
+<strong>Huset</strong>
 
-Den förra versionen av vår hemsida finns att titta på hos <a href="https://web.archive.org/web/20250217014605/https://fristadkollektivhus.se/">Internet Archive</a>
+Kollektivhuset är hela den stora huskroppen i mitten på bilden nedan. Alla delar av huset är förbundna via en korridor inomhus. Uppe till vänster på bilden syns Ellen Key skola och uppe till höger ligger Bromstens Idrottsplats.
 
-<br>
 <a href="/assets/fristad_drone.jpg"><img src="/assets/fristad_drone_cut.jpg"></a>
 <br>
 <small>Foto: Björn Thörnqvist, <a href="https://www.spangahembygdsgille.se">Spånga hembygdsgille</a></small>

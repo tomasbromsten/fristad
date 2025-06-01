@@ -34,7 +34,7 @@ Föreningen har även en styrelse som är invald av huset. Styrelsen arbetar myc
 
 <strong>Huset</strong>
 
-Kollektivhuset är hela den stora huskroppen i mitten på bilden nedan. Alla delar av huset är förbundna via en korridor inomhus. Uppe till vänster på bilden syns Ellen Key skola och uppe till höger ligger Bromstens Idrottsplats.
+Kollektivhuset är hela den stora huskroppen i mitten av bilden nedan. Alla delar av huset är förbundna via korridorer inomhus. Uppe till vänster på bilden syns Ellen Keys skola och uppe till höger ligger Bromstens Idrottsplats.
 
 <a href="/assets/fristad_drone.jpg"><img src="/assets/fristad_drone_cut.jpg"></a>
 <br>

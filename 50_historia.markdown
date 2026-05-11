@@ -12,5 +12,4 @@ Vi boende har även tillgång till gemensamhetslokaler där man kan idka aktivit
 
 På gångavstånd från huset finns en stor och välsorterad matbutik. Det går bussar till Sundbyberg, Solna, Spånga och Vällingby där all tänkbar service finns inklusive pendeltåg och T-bana till city.
 
-test
 

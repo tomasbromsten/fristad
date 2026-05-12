@@ -10,6 +10,6 @@ På innergården finns det gott om rabatter och gräsmattor. En lekplats för ba
 
 Vi boende har även tillgång till gemensamhetslokaler där man kan idka aktiviteter såsom sport, pingis, gym, bastu, massage, matlag, bokcirkel, loppmarknad, vävning, konstnärligt skapande, snickeri m.m. Vi boende städar själva trappor och korridorer. Vi är organiserade i fem städlag och de hyresgäster som städar får en ersättning för utfört arbete genom avdrag på hyran. Det är städlagens insats som genererar pengar till övriga arbetsgrupper. Det är alltså fristadsbornas engagemang som gör denna boendeform möjlig!
 
-På gångavstånd från huset finns en stor och välsorterad matbutik. Det går bussar till Sundbyberg, Solna, Spånga och Vällingby där all tänkbar service finns inklusive pendeltåg och T-bana till city.
+På gångavstånd från huset finns en stor och välsorterad matbutik. Det går bussar till Rissne, Sundbyberg, Solna, Spånga och Vällingby där all tänkbar service finns inklusive pendeltåg och T-bana till centrala Stockholm.
 
 

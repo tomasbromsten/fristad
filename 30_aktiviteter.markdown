@@ -143,7 +143,7 @@ Inomhusmiljögruppens verksamhet består av skötselav inomhusväxter, lån av p
 <h2>Målarrummet</h2>
 I målarrummet kan du måla dina möbler eller vad du tänkte måla utan att vara rädd att spilla på golvet eller väggar. Det finns en dörr som öppnar sig mot gatan så att man kan släppa in frisk luft.
 Man får inte slipa sina möbler där för då bildas det fint damm som kan sätta sig på färgen. Behöver man slipa så gör du det i snickeriet. Har du målat klart så städar du efter dig. Tömma
-soppornar, torkar av alla ytor och slänger det som ligger på golvet, tack.
+soporna, torkar av alla ytor och slänger det som ligger på golvet, tack.
 
 <strong>Kontakt:
 </strong><span style="font-weight: 400;">Silke Schermele 17B, vån 6</span>
@@ -211,10 +211,10 @@ Sofia Hemou 19A 6 tr
 
 <strong>Kontakt</strong>
 
-<span style="font-weight: 400;">Roya Saniei</span>
+<span style="font-weight: 400;">Kerstin Grönqvist</span>
 
 <strong>Gruppmedlemmar</strong>
-Samuel &amp; Ellen Skånberg
+ 
 <h2>Hemsidan och annan IT</h2>
 Ansvariga är:
 

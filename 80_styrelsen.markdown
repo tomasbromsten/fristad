@@ -34,15 +34,15 @@ date: 2022-12-13 22:05:34
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Sofia Hemou (Ersättare, Nyckelansvarig)</li>
+<li>Vakant</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>vakant<br>Ersättare:</li>
+<li><br>Ersättare:</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>vakant</li>
+<li>Sofia Hemou (ersättare)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

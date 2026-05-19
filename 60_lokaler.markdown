@@ -24,8 +24,6 @@ Christian Gonzalez 19D
 <h2>Målarrum</h2>
 Här sker all målning. Det finns luftkonditionering som lämpar sig för alla målararbeten.
 
-OBS! Målarrummet är tillfälligt stängt.
-
 <strong>Kontakt:</strong>
 
 Ansvarig:
@@ -33,8 +31,8 @@ Silke Schermele 17B
 
 Nyckelvärd:
 Janet Hansson 19C, vån 4
-<h2>Väv- och syrummet</h2>
-Välkommen till vävrummet som finns en trappa upp i stora entrén. Kom med idéer och förslag om vad du vill väva. Det finns tillgång till två vävstolar. Man kan sätta upp vävar gemensamt. Du behöver inte ha vävt tidigare. Regler finns uppsatta i vävrummet. Nyckelvärd Elsa Ågeby 21 vpl 4 eller Linda Frederiksen. Nu finns även tillgång till symaskin i Vävrummet. Knappnålar, sax, sprättkniv och tråd i kulörerna svart, vitt och grått finns.
+<h2>Handarbetsrummet</h2>
+Välkommen till handarbetsrummet som finns en trappa upp i stora entrén. Kom med idéer och förslag om vad du vill väva. Det finns tillgång till två vävstolar. Man kan sätta upp vävar gemensamt. Du behöver inte ha vävt tidigare. Regler finns uppsatta i rummet. Nyckelvärd Elsa Ågeby 21 vpl 4 eller Linda Frederiksen. Nu finns även tillgång till symaskin i rummet. Knappnålar, sax, sprättkniv och tråd i kulörerna svart, vitt och grått finns.
 
 <strong>Kontakt:</strong>
 
@@ -62,7 +60,7 @@ Silke Schermele 17B
 <strong>Kontakt:</strong>
 
 Ansvarig:
-Lark Davis, 19D
+Malin Hansen
 <h2>Cafégruppen</h2>
 Cafégruppen är en verksamhetsgrupp som anordnar
 sociala grejer i cafeterian huvudsakligen. Vi i

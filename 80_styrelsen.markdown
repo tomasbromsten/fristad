@@ -13,7 +13,7 @@ date: 2022-12-13 22:05:34
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Styrelsen består sedan årsmötet 2023 av följande personer:</p>
+<p>Styrelsen består sedan årsmötet 2026 av följande personer:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->

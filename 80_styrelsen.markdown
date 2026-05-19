@@ -22,11 +22,11 @@ date: 2022-12-13 22:05:34
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Susanne Lindgren (vice ordförande)</li>
+<li>Kerstin Grönqvist (vice ordförande)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Tomas Lindholm (sekreterare)</li>
+<li>vakant (sekreterare)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -34,18 +34,18 @@ date: 2022-12-13 22:05:34
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Sofia Hemou (Nyckelansvarig)</li>
+<li>Sofia Hemou (Ersättare, Nyckelansvarig)</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Malak Omran<br>Ersättare:</li>
+<li>vakant<br>Ersättare:</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Eva-Lisa Hasselroth</li>
+<li>vakant</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Tony Abboud</li>
+<li>vakant</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->

@@ -11,9 +11,9 @@ Brinner du för något speciellt, starta en då en ny aktivitet och erbjud huset
 <hr>
 
 <h2>Matlag</h2>
-För närvarande finns det ett stort matlag för fredagsmiddagarna. (Tidigare fanns det två). Matlaget träffas var tredje vecka och bestämmer vilken mat som ska lagas. Matlagen bjuder in husets medlemmar till middag. För medlemmar är priset 40 kr och icke-medlemmar 70 kr. För barn 2-10 år är det 20 kr. Anmälan kommer upp i regel en vecka innan så att man kan boka in sig.
+För närvarande finns det ett stort matlag för fredagsmiddagarna. (Tidigare fanns det två). Matlaget träffas var tredje vecka och bestämmer vilken mat som ska lagas. Matlagen bjuder in husets medlemmar till middag. För medlemmar är priset 50 kr och icke-medlemmar 80 kr. För barn 13-18 år 25 kr och för barn upp till 12 år är det gratis. Anmälan kommer upp i regel en vecka innan så att man kan boka in sig.
 
-Det finns också ett matlag under vardagarna som har matlagning under vardagarna där det är enklare, billigare och vegansk mat som är på menyn. Detta sker mer sporadiskt men lappar sätts upp som vanligt.
+Det finns också ett matlag som har matlagning under vardagarna där det är enklare, billigare och vegansk mat som är på menyn. Detta sker mer sporadiskt men lappar sätts upp som vanligt.
 
 Vi vill gärna ha fler matlag, vill du vara med? Kom till en middag och säg till så kan vi snacka mer om det :)
 
@@ -54,7 +54,7 @@ Emma Andersson
 Jesper Malm
 Jonas Törnros
 Tomas Lindholm
-<h2>Sy och vävrum</h2>
+<h2>Handarbetsgruppen</h2>
 Inspiration behöver vi alla. Är du intresserad av att sticka, virka, väva eller annan form av hantverk?
 
 Virka en rund dörrmatta, av trasor, laga en trasig söm. Titta in i syrummet. Lyser lampan i rummet är det bara att knacka på och komma in och se vad som finns. En pratstund är helt ok.
@@ -63,7 +63,7 @@ Vi har tillgång till symaskin, liten vävstol och större vävstol. Vi har äve
 
 <strong>Kontakt:</strong>
 
-Monica Andersson Asp, 19D vån 5, 073 727 11 67
+Lark Davis, 19D, 
 
 <hr />
 
@@ -76,7 +76,7 @@ Specialnyckel köpes tex på järnaffär.
 
 <strong>Kontakt:</strong>
 
-Emma Andersson 19B, 2 tr
+Emma Andersson 19B, 
 
 <strong>Gruppmedlemmar</strong>
 Sofia Hemou
@@ -87,8 +87,7 @@ Sofia Hemou
 Kulturgruppen kollar upp intressanta kulturaktiviteter som man kan anmäla sig till. Håll utkik efter lapparna vid portarna och anmäl dig till de saker som du tycker låter intressant.
 
 <strong>Kontakt:
-</strong><span style="font-weight: 400;">Tomas Lindholm 17B
-Sussi Wesström</span>
+</strong><span style="font-weight: 400;">Sussi Wesström, Malin Hansen</span>
 
 <hr />
 
@@ -182,7 +181,7 @@ Fär närvanrande finns inga lediga extraförråd. Kontakta ansvarig för att st
 Ansvarar för att välkomna nya hyresgäster samt ha rundvandring i huset, och beskriva lite om hur kollektivet fungerar.
 
 <strong>Kontakt:
-</strong>Tomas Lindholm 17B, 7tr
+</strong>Samuel Skånberg 17B,Samira Ishak 19B, Matilda Teglund 19A 
 
 <strong>Gruppmedlemmar:</strong>
 <span style="font-weight: 400;">Monica Andersson Asp 19 D</span>
@@ -205,10 +204,10 @@ Eva Pålemar 19D, 4 tr
 <strong>Gruppmedlammar:</strong>
 Sofia Hemou 19A 6 tr
 
-<h2>Dansgruppen</h2>
-<span style="font-weight: 400;">Dansgruppen startades upp under 2023.</span>
+<h2>Bokcirkel</h2>
+<span style="font-weight: 400;">Bokcirkeln startades under 2025.</span>
 
-<span style="font-weight: 400;">Planen är att anordna flera danstillfällen för att pröva på olika danser.</span>
+<span style="font-weight: 400;">Bokcirkeln träffas var sjätte vecka och pratar om den senaste boken samt bestämmer nästa bok.</span>
 
 <strong>Kontakt</strong>
 

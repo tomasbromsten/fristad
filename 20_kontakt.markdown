@@ -4,6 +4,8 @@ title: Kontakt
 permalink: /kontakt.html
 ---
 
+Alla lägenheter förmedlas av Bostadsförmedlingen i Stockholm. Vi kan inte hjälpa dig att få en lägenhet i Fristad.
+
 fristadstyrelsen@gmail.com
 
 Kollektivhusföreningen Fristad\

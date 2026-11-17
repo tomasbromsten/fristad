@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Din sidtitel</title>
+  <link rel="stylesheet" href="github-markdown.css">
+  <style>
+    .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+      font-size: 18px; /* Ändra här för att göra all text större */
+    }
+  </style>
+</head>
+<body class="markdown-body">
+
 Version 1.0 - 2026-11-16
 # Arbetsmöte om nytt samarbets/förvaltningsavtal
 
@@ -173,3 +193,5 @@ Kollektivhusets gemensamma lokaler är följande:
 9. [från husmötesprotokoll] Avtalet bör gälla tre parter: Svenska Bostäder, kollektivhusföreningen och hyresgästföreningen,
 10. [från husmötesprotokoll] Innan vi skriver på att alla tidigare avtal upphör att gälla bör alla ”surdegar” lösas. Som exempel på ”surdegar” nämndes utebliven ersättning för tidigare utförd städning, att vi blivit av med ett storkök och inte fått ett fullgott kök som ersättning och att det är oklart vilka lokaler som kollektivhusföreningen förfogar över
 
+</body>
+</html>

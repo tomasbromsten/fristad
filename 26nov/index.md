@@ -1,5 +1,5 @@
 <title>Arbetsmöte</title>
-<link rel="stylesheet" href="github-markdown.css">
+<link rel="stylesheet" href="github-markdown-light.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <div class="markdown-body" style="box-sizing:border-box; max-width:980px; margin:0 auto; padding:clamp(12px, 4vw, 45px); font-size:18px;" markdown="1">
 

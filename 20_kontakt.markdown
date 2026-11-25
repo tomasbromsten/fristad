@@ -19,5 +19,7 @@ Gatuadresser till huset är Cervins väg 17, 19, och 21.
 
 --
 
+Bankgiro: 344-4981 Fristads Kollektivhusförening
+
 Organisationsnummer: 802011-3075
 
